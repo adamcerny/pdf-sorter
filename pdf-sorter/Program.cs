@@ -91,7 +91,7 @@ namespace pdf_sorter
                     if (records[i].PageTo < records[i].PageFrom ||
                         records[i].PageFrom - records[i - 1].PageTo != 1)
                     {
-                        Console.WriteLine($"Bad data found on row {i + 2}");
+                        Console.WriteLine($"Bad data found on row {i + 2}  (PageFrom {records[i].PageFrom}, PageTo {records[i].PageTo}, Date {records[i].Date})");
                         validCsv = false;
                     }
                 }
