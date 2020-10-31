@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdf-sorter", "pdf-sorter\pdf-sorter.csproj", "{29638D9A-8FB6-46C2-9431-CDDF1830F617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29638D9A-8FB6-46C2-9431-CDDF1830F617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29638D9A-8FB6-46C2-9431-CDDF1830F617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29638D9A-8FB6-46C2-9431-CDDF1830F617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29638D9A-8FB6-46C2-9431-CDDF1830F617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D00045-FE59-4B9E-809D-A91EA24CBC22}
+	EndGlobalSection
+EndGlobal
